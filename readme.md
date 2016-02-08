@@ -1,1 +1,1 @@
-TEST
+IS2 primer sistemea
